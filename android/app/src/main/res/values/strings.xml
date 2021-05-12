@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ebesim</string>
+    <string name="facebook_app_id">441504273831006</string> <string name="fb_login_protocol_scheme">fb441504273831006</string>
+</resources>
